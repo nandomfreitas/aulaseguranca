@@ -36,7 +36,7 @@ public class EspacoAluno extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Servlet EspacoAluno</title>");            
+            out.println("<title>Servlet TESTE EspacoAluno</title>");            
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Bem vindo ao Espaco Aluno</h1>");
